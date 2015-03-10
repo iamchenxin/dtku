@@ -1,0 +1,466 @@
+====== call ======
+  * Syllabification : ''call'' 
+  * Pronuncaition : <wrap vo>call</wrap> ''/kôl/'' 
+  * Rank : top1000 
+
+====== Definition ======
+===== verb =====
+==== 1.  Give (an infant or animal) a specified name: ====
+  *  they called their daughter Hannah
+  *  When my husband and I were first married we had a cat we called Wanda.
+  *  Morel gives birth to their third child, whom she calls Paul.
+  *  Daisy, as we called the goat, would hate to be separated from her lambs and it was woe betide any dog that came near them.
+=== Synonyms ===
+name, christen, baptize; designate, style, term, dub formal denominateView synonyms\\
+=== Subsense ===
+  -  ** Have a specified name:**
+    *  she is called Eva
+    *  a 1942 mystery called Time To Kill
+    *  There is an extremely popular family restaurant in Bandra called Papa Pancho.
+    *  This game is called "Mighty No.9".
+    *  I did write an article for the Pleasantville High School newspaper, which I think was called The Panther.
+  -  **Address or refer to (someone) by a specified name, title, endearment, or term of abuse:**
+    *  please <wrap vo>call</wrap> me Lucy
+    *  if he remains quiet she calls him a wimp
+    *  I heard one girl called her a 'tomboy'.
+    *  The reporter called her a "good-looking, smart, gin-drinking suburbanite."
+    *  Let's analyze the stupidity of your comment to Jack below, where you called him a loser.
+  -  **Refer to, consider, or describe (someone or something) as being:**
+    *  he’s the only person I would <wrap vo>call</wrap> a friend
+    *  Since then, he has entered what you might <wrap vo>call</wrap> a rough patch.
+    *  Whether it is what you might <wrap vo>call</wrap> professional misconduct may be another matter.
+    *  For five nights, we were on what you might <wrap vo>call</wrap> a floating hotel.
+    *  __Synonyms__ : describe as, regard as, look on as, consider to beView synonyms
+==== 2.  Cry out (a word or words): ====
+  *  he heard an insistent voice calling his name
+  *  Meredith was already calling out a greeting
+  *  Madison makes her way out the door, calling goodbye to Robert over her shoulder.
+  *  One day I found myself running home from the bus stop, calling out goodbyes to Tracy and Brian.
+  *  Jennifer blew kisses to visiting reporters and called out "hi, hi."
+=== Subsense ===
+  -  **Cry out to (someone) in order to summon them or attract their attention:**
+    *  she heard Terry calling her
+    *  [no object]: I distinctly heard you <wrap vo>call</wrap>
+    *  The cat heard me <wrap vo>call</wrap> and ran up to me.
+    *  I turned around and ran, but stopped on the stairs when he called after me.
+    *  As she started to leave the office, Max called after her.
+  -  ** (Of an animal, especially a bird) make its characteristic cry:**
+    *  overhead, a skylark called
+    *  The wolves were calling again, at about 4:45 a.m.
+    *  When you hear a pack of wolves calling, you don't pay attention to anything else.
+    *  The birds kept calling as they shuffled about, and I tried my best to let the sound sink into my brain.
+  -  **Shout out or chant (the steps and figures) to people performing a square dance or country dance.**
+    *  Listen to the music and of course, listen to the leader calling the steps.
+    *  The caller walks everyone through the dance moves, and continues calling the steps until they are familiar enough so that the dancers do not need to have them repeated.
+    *  The Squire leads the side and calls the figures of the dances from within the set.
+  -  ** Make (a particular bid) during the auction:**
+    *  her partner called 6♠
+    *  A bid can only be overcalled by calling a lower card of the same suit as the original bid.
+    *  Then the next player calls, and so on until all cards have been called.
+    *  Betting then commences in a poker style manner, until the bet has been called.
+  -  ** Claim (a privilege) for oneself, typically by shouting out a particular word or set phrase:**
+    *  I <wrap vo>call</wrap> first dibs on the bathroom
+    *  "I <wrap vo>call</wrap> front seat by the window," he yelled to Simon as they raced toward the car.
+    *  “I <wrap vo>call</wrap> front seat,” one of the kids will shout out.
+    *  Meet us at the jump ropes. Delores and I <wrap vo>call</wrap> first up!
+==== 3.  Contact or attempt to contact (a person or number) by phone: ====
+  *  could I <wrap vo>call</wrap> you back?
+  *  at the first sign of heart-attack symptoms <wrap vo>call</wrap> 911 immediately
+  *  I pride myself in either taking the <wrap vo>call</wrap> or calling the person back within an hour.
+  *  I'll <wrap vo>call</wrap> you back soon.
+  *  People, like the man whose apartment didn't have a door, can <wrap vo>call</wrap> the 800 number for help at any time.
+=== Subsense ===
+  -  **Summon (something, especially an emergency service or a taxi) by telephone:**
+    *  her husband called an ambulance
+    *  The woman in the museum reception was kind enough to <wrap vo>call</wrap> a cab.
+    *  We called a cab to take us to the club.
+    *  Do not allow yourself or anyone else to become dangerously ill before calling a doctor or going to a hospital.
+    *  __Synonyms__ : summon, send for, assemble, muster, invite, orderView synonyms
+==== 4.  Order or request the attendance of: ====
+  *  representatives of all three teams have been called to appear before the stewards
+  *  I got a letter calling me for an interview
+  *  Research has shown that people with high Positive Affect were more likely to get called back for second interviews.
+  *  He served briefly as a Private First Class in the Marines before being called back for a secret position with the CIA.
+  *  The next workshop will be held on September where educational institutions will be called upon to attend.
+=== Subsense ===
+  -  **Bring (a witness) into court to give evidence:**
+    *  four expert witnesses were called
+    *  He has not given evidence or called any witnesses on his behalf.
+    *  Officials are still deciding which former employees will be called to give evidence.
+    *  Two Indiana State Police forensic scientists were also called to testify.
+  -  **Cause (someone) to have a strong urge to choose a particular career or way of life:**
+    *  he was called to the priesthood
+    *  I think teachers, really good teachers, are called to teach
+    *  When he is called to follow the Lord, she turns her back on both the man and his God.
+    *  He felt called to make the world a better place by becoming a minister.
+    *  I was 19 years old when I first heard God calling me to religious life.
+==== 5.  Announce or decide that (an event, especially a meeting, strike, or election) is to happen: ====
+  *  there appeared to be no alternative but to <wrap vo>call</wrap> a general election
+  *  she intends to <wrap vo>call</wrap> a meeting of the committee early next week
+  *  the Allied forces called a ceasefire
+  *  The findings were quickly taken up by Gov. Pat McCrory, who called a press conference on the issue.
+  *  Griffith had not asked for me at all; he had called a press conference.
+  *  The findings were quickly taken up by Governor McCrory, who called a press conference on the issue.
+=== Synonyms ===
+convene, summon, assemble formal convokeView synonyms\\
+==== 6.  (Of a person) pay a brief visit: ====
+  *  he called around last night looking for you
+  *  he had promised Celia he would <wrap vo>call</wrap> in at the clinic
+  *  His old schoolmaster called by and launched into an analysis of American politics.
+  *  At one point, Karen's neighbour calls by to complain that work on the beach is "bringing all sorts to the area".
+  *  He rang her constantly, called round unexpectedly and even entered the house uninvited.
+==== 7.  (Of an umpire or other official in a game) pronounce (a ball, stroke, or other action) to be the thing specified: ====
+  *  the linesman called the ball wide
+  *  The umpire called the ball out.
+  *  To me, the worst thing in baseball is when the pitcher is scared to throw the ball over the plate, and then the umpire calls it a strike when it's a foot outside!
+  *  The ball went in and out of the seats in such a way that the umpire called it a double rather than a homer.
+=== Subsense ===
+  -  ** Predict the result of (a future event, especially an election or a vote):**
+    *  in the Northeast, the race remains too close to <wrap vo>call</wrap>
+    *  few pundits risked calling the election for either Bush or Kerry
+    *  Hats off to you, Miguel, because on May 5 you called it - you said it was a shoo-in.
+    *  The personalised nature of the bid battle makes the outcome hard to <wrap vo>call</wrap>, analysts said.
+    *  Still, analysts <wrap vo>call</wrap> the race dead even.
+  -  ** Guess (the outcome) of tossing a coin:**
+    *  Burnley called heads and won the toss
+    *  [no object]: “You <wrap vo>call</wrap>,” he said. “Heads or tails?”
+    *  More importantly, though, that winner would have correctly called the toss something like 16 times in a row.
+    *  The players in the group then establish a playing order by calling coin tosses, chipping toward a tee marker, or any other simple method.
+    *  There was even a cheer and a bout of fist-clenching when Burnley called heads and won the toss to decide who went first.
+==== 8.  Cause (a subroutine) to be executed: ====
+  *  one subroutine may <wrap vo>call</wrap> another subroutine (or itself)
+  *  To <wrap vo>call</wrap> C routines from a Fortran program, you will have to write some C code.
+  *  Metadata that is generated establishes a mapping of interface parameters to the routine parameters of the called routine.
+  *  A shared library delays the binding of a routine name to its executable function until the routine is first called when your program runs.
+===== noun =====
+==== 1. A cry made as a summons or to attract someone’s attention: ====
+  *  a nearby fisherman heard their calls for help
+  *  in response to the <wrap vo>call</wrap>, a figure appeared
+  *  Rescue workers moved in, picking over debris and listening for calls for help.
+  *  I heard her muffled <wrap vo>call</wrap> from the car.
+  *  My feet abruptly started walking faster after I heard Yori's <wrap vo>call</wrap>.
+=== Synonyms ===
+cry, shout, yell, roar, scream, exclamation, vociferation informal hollerView synonyms\\
+=== Subsense ===
+  -  **The characteristic cry of a bird or other animal:**
+    *  it is best distinguished by its <wrap vo>call</wrap>, a loud “pwit”
+    *  The walk was barely under way when Julie heard the <wrap vo>call</wrap> of a white-eyed vireo, a little yellow and gray summer visitor.
+    *  The place resounded with the calls of birds as they settled down for the night, even as people walked into the tastefully decorated frontyard.
+    *  But he was unable to photograph them, or even record the birds' calls.
+    *  __Synonyms__ : cry, song, soundView synonyms
+  -  ** A series of notes sounded on a brass instrument as a signal to do something:**
+    *  a bugle <wrap vo>call</wrap> to rise at 5:30
+    *  Toward the end of one song, David Johnson busted out a cavalry <wrap vo>call</wrap> on the trumpet.
+    *  Performing the poignant trumpet <wrap vo>call</wrap> is the 92-year-old's way of honouring those who made the ultimate sacrifice for Queen and country.
+    *  The bugle <wrap vo>call</wrap> sounded at retreat was first used in the French Army and dates back to the crusades.
+  -  **A direction in a square dance given by the caller.**
+    *  Wilma said the calls make square dancing easy to learn.
+    *  Square dances, with many of the calls in French, also became popular in the twentieth century.
+    *  In traditional square dancing the timing of a <wrap vo>call</wrap> is fitted to the music.
+  -  ** A bid, response, or double:**
+    *  the alternative <wrap vo>call</wrap> of 2♠ would be quite unsound
+    *  In some schedules a solo is worth more if you bid it over a previous <wrap vo>call</wrap> of misère or piek.
+    *  Five and six are no longer available, as this player has already used all his opportunities for these calls.
+    *  Then betting commences with raises, calls and folds as usual.
+==== 2. An instance of speaking to someone on the phone or attempting to contact someone by phone: ====
+  *  I’ll give you a <wrap vo>call</wrap> at around five
+  *  he stopped returning her calls
+  *  a ten-minute <wrap vo>call</wrap> to the emergency services
+  *  The Department of Agriculture has received calls from consumers worried about whether they consumed some of the recalled beef.
+  *  My late afternoon siesta was interrupted by a <wrap vo>call</wrap> from Graham.
+  *  She works by herself on the floor and is constantly interrupted by calls on her mobile and fixed-line phones.
+=== Synonyms ===
+phone call, telephone call, ring informal buzzView synonyms\\
+==== 3. A brief social visit: ====
+  *  we paid a <wrap vo>call</wrap> on Howard
+  *  As Vettel was making his first pit <wrap vo>call</wrap> on lap 14, the Finn was seen leaving the circuit.
+  *  The video shows the first port <wrap vo>call</wrap> of the world's largest ship in the port of Busan in South Korea.
+  *  I paid some calls to old friends in Manhattan.
+=== Synonyms ===
+visit, social callView synonyms\\
+=== Subsense ===
+  -  **A visit or journey made by a doctor or other professional in response to a request for help, especially in an emergency situation:**
+    *  the ambulance is out on a <wrap vo>call</wrap>
+    *  the district nurse used to make her calls on a bicycle
+    *  One of the most common home repair calls in Florida is for fascia damage, which is particularly susceptible to water damage.
+    *  In many city fire departments, firefighters are sent home after two calls.
+    *  Unless you know a psychologist that does home calls it will be difficult to get her help that she knows she needs but refuses to get.
+==== 4. An appeal or demand for something to happen or be done: ====
+  *  the <wrap vo>call</wrap> for action was welcomed
+  *  a <wrap vo>call</wrap> to all sides to remain calm and refrain from violence
+  *  there are more and more calls on his time
+  *  Mr O'Farrell has acknowledged she acted badly but doesn't seem to be heeding the opposition's <wrap vo>call</wrap> to sack her.
+  *  If you are a researcher, you have many calls on your time.
+  *  Set out what money you have coming in on one side and your outgoings on the other (rent/mortgage, food, clothing, and any other calls on your income).
+=== Synonyms ===
+appeal, request, plea, entreatyView synonyms\\
+=== Subsense ===
+  -  ** Demand or need for (goods or services):**
+    *  there was little <wrap vo>call</wrap> for work as sophisticated as his
+    *  Many superhero enthusiasts may have been disheartened by the Superman Returns version and there was not much <wrap vo>call</wrap> for a sequel.
+    *  The team is still under strength but there is some <wrap vo>call</wrap> for optimism.
+    *  There was little <wrap vo>call</wrap> for healthfood at the Olympic Village as the games came to an end.
+    *  __Synonyms__ : demand, desire, marketView synonyms
+==== 5.  An order or request for someone to be present: ====
+  *  he was delighted that so many former players had heeded the <wrap vo>call</wrap> to attend the conference
+  *  The <wrap vo>call</wrap> to return to the battlefield is one heeded by many veterans through the ages.
+  *  I thank God that I heeded my wife's <wrap vo>call</wrap> to attend our church's vigil in Ebute Meta.
+  *  85% of the workforce there did not heed a <wrap vo>call</wrap> to return to work, in spite of an interdict by the Labour Court declaring their strike unprotected.
+=== Subsense ===
+  -  **A vocation:**
+    *  feeling the <wrap vo>call</wrap> to ministry, I started looking for a Bible college
+    *  Peter, an idealistic young Yale graduate, worked as a journalist covering the war in Paris when he felt the <wrap vo>call</wrap> to serve.
+    *  His <wrap vo>call</wrap> to a culinary career began at a young age.
+    *  People say I could have gone professional because of my love for football but I believe that in life, each person has his <wrap vo>call</wrap> and vocation.
+  -  **A powerful force of attraction:**
+    *  hikers can’t resist the <wrap vo>call</wrap> of the Sierras
+    *  Samantha felt the <wrap vo>call</wrap> of the ocean from her earliest days.
+    *  Even in an age of mobility, families do their best to gather as extended clans, drawn by the <wrap vo>call</wrap> of Christmas.
+    *  She accepted, but it was not long before the <wrap vo>call</wrap> of the great outdoors became irresistible once more.
+    *  __Synonyms__ : attraction, appeal, lure, allure, spell, pull, drawView synonyms
+==== 6. (In sports) a decision or ruling made by an umpire or other official, traditionally conveyed by a shout, that the ball has gone out of play or that a rule has been breached: ====
+  *  he was visibly irritated with the umpire’s calls
+  *  It's good for the game when bad calls can be corrected on the field.
+  *  In fact, according to coaches, officials are deciding games with reckless calls.
+  *  Some like to see the game played without many calls; some like to <wrap vo>call</wrap> the penalties.
+=== Subsense ===
+  -  **A decision, judgement, or prediction:**
+    *  personally, I’m all in favor, but it’s your <wrap vo>call</wrap>
+    *  that entrepreneurial instinct may account for his ability to make tough calls when profits are at stake
+    *  the two old foes are so evenly matched that it’s anyone’s <wrap vo>call</wrap>
+    *  The first elimination is always a very tough <wrap vo>call</wrap>.
+    *  Your and your spouse's plans for your estate can be identical or entirely dissimilar; it's your <wrap vo>call</wrap>.
+    *  Whether you sell early to cash in on the frenzy or sell later based on concrete information, it's your <wrap vo>call</wrap>, so don't give in to panic.
+==== 7.  A command to execute a subroutine: ====
+  *  parameter values may be changed by calls to a special purpose input specification subroutine
+  *  As shown in the figure, there is a value pushed for each <wrap vo>call</wrap> to the routine.
+  *  A code element issues a <wrap vo>call</wrap> to the first routine.
+  *  One direct method to utilize the kernel is for a process to execute a system <wrap vo>call</wrap>.
+==== 8.  A demand for payment of lent or unpaid capital. ====
+  *  The bank could issue the contingent capital component of its planned £7.8 billion capital <wrap vo>call</wrap> as early as this summer, according to debt bankers.
+  *  With potential bank losses barely covered by the European Stability Mechanism's 60 billion euros of bank rescue funds, what might happen when banks admit this can't continue, and loan losses trigger new capital calls?
+  *  Conceptually, an overdraft is repayable at <wrap vo>call</wrap> or on demand, whereas a loan is granted for a fixed period of time.
+=== Subsense ===
+  -  ** short for call option.**
+    *  By tracking the daily and weekly volume of puts and calls in the U.S. stock market, we can gauge the feelings of traders.
+    *  Put options should increase in value and calls should drop as the stock price falls.
+    *  The rule for creating synthetics is that the strike price and expiration date of the calls and puts must be identical.
+====== Origin ======
+Late Old English ceallian, from Old Norse kalla 'summon loudly'.
+More
+Call appears in Late Old English from an Old Norse root, but recall ‘call back’ does not appear until the late 16th century. To call the shots or call the tune is to dictate how something should be done. Call the tune is a shortening of he who pays the piper calls the tune, only recorded from the late 19th century. Call the shots, not recorded before the 1920s, is from sports and games. In pool to call your shots is to say in advance which ball you intend to hit into which pocket. In target shooting it means to announce which part of the target you are going to hit; if someone else calls the shots you have to aim at the bit they choose.
+====== Phrases ======
+==== call attention to ====
+Cause people to notice:
+  *  he is seeking to <wrap vo>call</wrap> attention to himself by his crimes
+  *  Sleeveless, short or cap sleeves or tight sleeves <wrap vo>call</wrap> attention to, and display, the arms.
+  *  The way they sell new dictionaries is by calling attention to all the new words they've located.
+  *  I yelled out to <wrap vo>call</wrap> attention to what was going on (at the same time wondering how smart I was to get involved).
+==== call someone's bluff ====
+see bluff1.
+==== call collect ====
+Make a telephone call reversing the charges.
+  *  You will also have your own phone from which long distance calls can be made by calling collect or using a charge card.
+  *  A prison social worker said that prisoners may <wrap vo>call</wrap> collect on pay telephones inside the prison.
+  *  They charge extra money to inmates who <wrap vo>call</wrap> collect to their families.
+==== call something into play ====
+Cause or require something to start working so that one can make use of it:
+  *  our active participation as spectators is called into play
+  *  For legs, it's the same thing - you have to <wrap vo>call</wrap> the secondary muscles into play to put maximum pressure on the thighs.
+  *  He created what was called a ‘subroutine’ for each note, then called them into play, as needed.
+  *  These companies charge several hundred to several thousand dollars for their services, so it would be wise for you to have an idea of exactly what you need before calling them into play.
+==== call something into  (or in) question ====
+Cast doubt on something:
+  *  these findings <wrap vo>call</wrap> into question the legitimacy of the proceedings
+  *  Integrity is one of the cornerstones upon which reliable journalism is based, and, when it is called into question, we begin to doubt everything we read in newspapers and magazines and see on television.
+  *  It was the second time that her victory was called into question.
+  *  My honesty has been called into question and it has made me look like a criminal.
+==== call it a day ====
+see day.
+==== call someone names ====
+see name.
+==== call of nature ====
+see nature.
+==== call the shots  (or tune) ====
+Take the initiative in deciding how something should be done:
+  *  we believe in parents and teachers calling the shots
+  *  It's all about getting the initiative and being in a position to <wrap vo>call</wrap> the shots.
+  *  He quoted the proverb ‘He who pays the piper, calls the tune, ‘but noted, ‘I think we are very strong on the issue that they mustn't tell us what is good for us.
+  *  The taxpayer pays the piper, but the sponsor calls the tune.
+==== call a spade a spade ====
+see spade1.
+==== call someone to account ====
+see account.
+==== call someone/something to mind ====
+Cause one to think of someone or something, especially through similarity:
+  *  the still lifes <wrap vo>call</wrap> to mind certain of Cézanne’s works
+  *  At other points his guitar work briefly calls organs to mind.
+  *  It's not about these people, but there are things in it that <wrap vo>call</wrap> them to mind.
+  *  Her work conjures up such a non-factual set of moments that altered states, or dream states are called to mind.
+==== call someone/something to order ====
+Ask those present at a meeting to be silent so that business may proceed.
+  *  He looked around the room to ensure all his key players were present, then called the meeting to order.
+  *  I remember nervously calling the meeting to order, wondering what our full day of dialogue would bring.
+  *  Imagine that the CEO of a major corporation has just called a meeting to order, and one of the board members makes a motion to discuss a proposed acquisition.
+==== don't call us, we'll call you ====
+Used as a dismissive way of saying that someone has not been successful in an audition or a job application.
+  *  You can't walk five meters in a straight line… don't <wrap vo>call</wrap> us, we'll <wrap vo>call</wrap> you.
+  *  After the first audition there was a two-week period when it was a case of don't <wrap vo>call</wrap> us, we'll <wrap vo>call</wrap> you.
+  *  His e-mail read like a ‘thank you for your interest, but don't <wrap vo>call</wrap> us, we'll <wrap vo>call</wrap> you,’ form letter.
+==== good call  (or bad call) ====
+Used to express approval (or criticism) of a person’s decision or suggestion.
+  *  The decision to keep interest rates unchanged looks like a good <wrap vo>call</wrap>.
+  *  He was very agitated and concerned, and on several occasions he said to me it was a very bad <wrap vo>call</wrap> and he obviously realised he had made a very significant error.
+  *  Medical staff deal with a constant flow of difficult decisions and, occasionally, they make what appears to be a bad <wrap vo>call</wrap>.
+==== on call ====
+(Of a person) able to be contacted in order to provide a professional service if necessary, but not formally on duty:
+  *  our technicians are on <wrap vo>call</wrap> around the clock
+  *  There is an emergency ski patrol service on <wrap vo>call</wrap> 24 hours a day.
+  *  If a physical exam is to be done the physician on <wrap vo>call</wrap> will be contacted.
+  *  Top marks also to all who remained on duty, or on <wrap vo>call</wrap>, over the festive period.
+(Of money lent) repayable on demand.
+  *  High cost options such as recalling the loan and converting a term loan to an on-<wrap vo>call</wrap> loan are less preferred choices.
+  *  Keep your loan on <wrap vo>call</wrap> and simply pay off the 3% minimum each month.
+==== to call one's own ====
+Used to describe something that one can genuinely feel belongs to one:
+  *  I had not an item to <wrap vo>call</wrap> my own
+  *  The group desperately need premises to <wrap vo>call</wrap> their own, somewhere to store all their equipment, to have freedom of rehearsal times and a place to feel comfortable in.
+  *  On the most frigid day of this year, the restaurant overflows with penniless customers who make a cup of coffee last all day because they don't have a job to go to or a home to <wrap vo>call</wrap> their own.
+  *  The club is for the youth of the area and the youth group will endeavour to provide a safe environment for them, where they can have fun and a venue to <wrap vo>call</wrap> their own.
+==== within call ====
+Near enough to be summoned by calling:
+  *  she moved into the guest room, within <wrap vo>call</wrap> of her father’s room
+  *  He had retired discreetly to the doorway, ready within <wrap vo>call</wrap> should Master need anything.
+  *  She might <wrap vo>call</wrap> for help if he attempted again as neighbors lived within <wrap vo>call</wrap>.
+  *  How many people may there be in London, who, if we had brought them deviously and blindfolded, to this street, fifty paces from the Station House, and within <wrap vo>call</wrap> of St. Giles's church, would know it for a not remote part of the city in which their lives are passed?
+====== Phrasal verbs ======
+==== call for ====
+Make necessary:
+  *  desperate times <wrap vo>call</wrap> for desperate measures
+  *  I think a sense of proportion is called for here.
+  *  The production schedule would <wrap vo>call</wrap> for filming a total of 100 episodes in just two years.
+  *  FBI policy calls for an investigation whenever an agent fires a weapon.
+Publicly ask for or demand:
+  *  the report calls for an audit of endangered species
+  *  Senate Democrats also pointed out that they had been calling for a bipartisan conference for months, a request that had been brushed off by House Republicans.
+  *  The President called for $10 million to be spent on researching violent media as well as its correlation to gun violence.
+  *  The US way is to <wrap vo>call</wrap> for stricter laws, harsher conditions and longer sentences.
+Predict or describe (the likely weather conditions) for a period of time in the future:
+  *  the forecast is calling for more rain
+  *  they’re calling for temperatures in the 80s for the rest of the week
+  *  Forecasters are calling for a storm surge of between 6 and 14 feet for Eleuthera and Grand Bahama Islands.
+  *  Although the weather forecast called for rain, the weather was great throughout the whole race.
+  *  The forecast called for more rain through the day Sunday, which could hamper rescuers trying to reach all of the far-flung areas that have been affected.
+Stop to pick up (someone) at the place where they are living or working:
+  *  I’ll <wrap vo>call</wrap> for you around seven
+  *  A car would <wrap vo>call</wrap> for her at four o'clock on Friday.
+  *  I called for you so we could meet the man that Karl referred to as his friend.
+  *  A new house and a new friend: he called for me and said he would show me around.
+==== call something forth ====
+Elicit a response:
+  *  few things <wrap vo>call</wrap> forth more compassion
+  *  Her memory is astounding, calling forth an endless stream of anecdotes.
+  *  Today, many of the jokes are dated, but the raucous satirical tone still hits a nerve and calls forth countless contemporary associations.
+  *  The setting and circumstances on the island <wrap vo>call</wrap> forth the ideas of departure, regret, and the allure of the superficial.
+==== call someone/something down ====
+Cause or provoke someone or something to appear or occur:
+  *  nothing called down the wrath of Nemesis quicker
+  *  It was a way of calling down the judgment of God if the words spoken were false.
+  *  The best architects have always understood that we can <wrap vo>call</wrap> down divine fire, focus community, make a place for home.
+  *  In some cases, you'll find yourself in the midst of a pitched battle from which you can <wrap vo>call</wrap> down any number of WMDs.
+Reprimand someone:
+  *  he called down Clarence Drum about being so high and mighty
+  *  When she got carried away and started to show genuine anger and aggression, the Captain called her down.
+  *  Who do these holier-than-thou types think they are, calling me down?
+  *  When Joyce gets paranoid about his talent as a writer, he takes it out on Nora, throwing her past in her face and calling her down for being married before.
+==== call someone in ====
+Enlist someone’s aid or services:
+  *  you can either do the work yourself or <wrap vo>call</wrap> in a local builder to help you
+  *  She's called in the government to do more to stop unscrupulous companies selling prescription drugs on the Internet.
+  *  Lt. Murphy calls him in on cases that don't seem to make any sense.
+  *  When the government needs them at times like this, they pick up the phone and they <wrap vo>call</wrap> them in.
+==== call something in ====
+Require payment of a loan or promise of money:
+  *  the bank would <wrap vo>call</wrap> in loans and foreign donations
+  *  The bank was on the brink of calling in the debt.
+  *  Others blame the owners of established resorts, who may have pressed banks to <wrap vo>call</wrap> in loans to their red-hot competitor.
+  *  His biggest lender had just called in its loan.
+==== call someone/something off ====
+Order a person or dog to stop attacking someone:
+  *  Gunda pleaded with him to <wrap vo>call</wrap> the dog off
+  *  The Italian attack was called off, and it was time to move against France, so I resumed control of my unit and ordered it to Burgundy.
+  *  The government called off helicopters sent to attack the rebel militia, averting a threatened rebel offensive.
+  *  The dogs wanted to follow, but Maria called them off.
+==== call something off ====
+Cancel an event or agreement:
+  *  they held a ballot on whether to <wrap vo>call</wrap> off industrial action
+  *  The firm called off takeover talks last November because the price discussed was not satisfactory.
+  *  Within hours of calling off the deal, however, he was working to make the same idea happen, this time as a private company.
+  *  As the friends argue, other problems surface: Ian's doubts about his impending wedding, which his friends urge him to <wrap vo>call</wrap> off.
+==== call on ====
+Pay a visit to (someone):
+  *  he’s planning to <wrap vo>call</wrap> on Katherine today
+  *  He then calls on Eustacia, asking her to marry him.
+  *  The policewoman assigned to the case promised to <wrap vo>call</wrap> on them late Sunday afternoon.
+  *  He called on me during his last visit to Accra and we discussed varied issues relating to Africa.
+Have recourse to:
+  *  we are able to <wrap vo>call</wrap> on academic staff with a wide variety of expertise
+  *  he called on the government to hold a plebiscite
+  *  He'll be calling on those hard-earned inner resources often in this sport.
+  *  The largest part of the market remains untapped since most companies prefer to handle their own security issues, rather than calling on external forces.
+  *  Now her dad is calling on her musical talents to keep his customers in good spirits on December 11.
+  *  I <wrap vo>call</wrap> on you to stop any protest against progress in the peace process.
+  *  PC Hopson, who is spearheading the scheme to educate drinkers in the city, called on them to take sensible precautions.
+  *  Many of them had called on him to step down.
+==== call someone out ====
+Summon someone, especially to deal with an emergency or to do repairs:
+  *  patients are to be told to stop calling doctors out unnecessarily at night
+  *  Last month we had to <wrap vo>call</wrap> the doctor out because the stress of all this had sent Hilary's muscles into spasm.
+  *  So, to beat the system, I've requested that we <wrap vo>call</wrap> the electrician out again.
+  *  I've had to <wrap vo>call</wrap> the police out a couple of times, and the problem has been and gone over the years, depending on her medication.
+Draw critical attention to someone’s unacceptable actions or behavior:
+  *  people were calling him out for his negative comments
+  *  Dan had called her out on a couple of contradictions in her story
+  *  she called him on his claim that the media were doing a bad job of covering the economy
+  *  She gets the whole house riled up, then walks away like nothing happened, and nobody calls her on it.
+  *  The pay's good, and hardly anyone will <wrap vo>call</wrap> you on your decisions when you're wrong.
+  *  Rip the cloak of secrecy off abuse and openly <wrap vo>call</wrap> out every abuser by name; perhaps some real change would begin.
+Order or advise workers to strike.
+  *  Splinter groups of communists and Trotskyists fought for supremacy on the shop floor, calling workers out on strike and typifying the industrial travails of the time.
+  *  We urge the CWU not to <wrap vo>call</wrap> our people out on strike action, which can only hurt our customers.
+  *  The Fire Brigades Union called its 50,000 members out on strikes last November.
+Challenge someone to a duel.
+  *  Steve told Clarence that I called him out, but that he wouldn't fight me.
+  *  I'll <wrap vo>call</wrap> him out and we'll settle this once and for all.
+  *  When he is called out to fight a duel, Boris cannot pull the trigger.
+==== call something over ====
+Read out a list of names to determine those present:
+  *  a gentleman proceeded to <wrap vo>call</wrap> over the names of the jury
+  *  It has been the practice of the House of Commons, on occasions of sufficient importance, to order that the House be called over at a future day.
+  *  Under the new Act for regulating the trial of controverted elections, you will, in the discharge of your duty, <wrap vo>call</wrap> over the names in the alphabetical list of Members.
+  *  Charles Mansfield, our third lieutenant, came on deck, and called the list over.
+==== call someone up ====
+Phone someone:
+  *  I have a list of people to <wrap vo>call</wrap> up in the morning
+  *  He may have even called up Katy to help console him, but that doesn't mean they hooked up.
+  *  I called up Customer Care again and they promised me a free replacement by tomorrow evening.
+  *  Sensing the rarity of the animal, Meshram closed the door and immediately called up fire brigade personnel.
+Summon someone to serve in the army:
+  *  they have called up more than 20,000 reservists
+  *  he was called up from Columbus to finish the season with the Yankees
+  *  While fishing, Fred asks the bartender if he will go to war when they <wrap vo>call</wrap> up the old men.
+  *  She was a member of the Territorial Army when she was called up to serve in the last conflict.
+  *  He was called up for the Army in 1939 and served in France during the war, and later in the Middle East.
+  *  My point is, the Rays aren't afraid to <wrap vo>call</wrap> up their young guys.
+  *  In all honesty I hope the FO doesn't <wrap vo>call</wrap> up Bryant or Baez next season.
+  *  The worst-case scenario with Crosby is that the organization calls him up anyway, and the Tigers lose lots of games.
+==== call something up ====
+Summon for use something that is stored or kept available:
+  *  icons that allow you to <wrap vo>call</wrap> up a graphic
+  *  Once the customer has made a decision, the salesman calls up a three-dimensional image on his computer screen.
+  *  To make matters worse, online links to sites offering more information simply called up error pages.
+  *  So I called up my credit file and went through all 40 pages of it.
+====== See also ======
+on call,call on,call-in,call-up,bird call,
+====== Rhyme ======
+all, appal (US appall), awl, Bacall, ball, bawl, befall, Bengal, brawl, caul, crawl, Donegal, drawl, drywall, enthral (US enthrall), fall, forestall, gall, Galle, Gaul, hall, haul, maul, miaul, miscall, Montreal, Naipaul, Nepal, orle, pall, Paul, pawl, Saul, schorl, scrawl, seawall, Senegal, shawl, small, sprawl, squall, stall, stonewall, tall, thrall, trawl, wall, waul, wherewithal, withal, yawl 

@@ -34,7 +34,10 @@ class cDokuConvert:
     def bExample(self,ex_array,list_lv):
         tmpstr=""
         for ex in ex_array:
-            tmpstr+= "{0} {1}\n".format(mlistlv[list_lv],ex.strip())
+            regr= r"\b{0}\b".format(self.name)
+            tor="<wrap vo>{0}</wrap>".format(self.name)
+            rstr=re.sub(regr,tor,ex.strip())
+            tmpstr+= "{0} {1}\n".format(mlistlv[list_lv],rstr)
         return tmpstr
 
     def bSynonyms(self,bsyn,list_lv):
@@ -47,7 +50,7 @@ class cDokuConvert:
         tmpstr=""
         for subs in subs_array:
             if test_key(subs,"meaning"):
-                tmpstr+="{0} {1}\n".format(mOrderlv[0],subs["meaning"])
+                tmpstr+="{0} **{1}**\n".format(mOrderlv[0],subs["meaning"])
                 if test_key(subs,"example"):
                     tmpstr+=self.bExample(subs["example"],1)
                 if test_key(subs,"synonyms"):
@@ -118,10 +121,21 @@ class cDokuConvert:
                 tmp_str+=self.mH(lphra["words"].strip(),self.mh_lv )
                 if test_key(lphra,"definition"):
                     ldef = lphra["definition"]
-                    if test_key(ldef,"meaning"):
-                        tmp_str+="{0}\n".format(ldef["meaning"].strip() )
-                    if test_key(ldef,"example"):
-                        tmp_str+=self.bExample(ldef["example"],0)
+                    if type(ldef) is list:
+                        for ldefss in ldef:
+                            if test_key(ldefss,"meaning"):
+                                tmp_str+="{0}\n".format(ldefss["meaning"].strip() )
+                            if test_key(ldefss,"example"):
+                                tmp_str+=self.bExample(ldefss["example"],0)
+                            if test_key(ldefss,"synonyms"):
+                                self.bSynonyms(ldefss["synonyms"],0)
+                    else:
+                        if test_key(ldef,"meaning"):
+                            tmp_str+="{0}\n".format(ldef["meaning"].strip() )
+                        if test_key(ldef,"example"):
+                            tmp_str+=self.bExample(ldef["example"],0)
+                        if test_key(ldef,"synonyms"):
+                            self.bSynonyms(ldef["synonyms"],0)
                 self.mh_lv-=2
         return tmp_str
 
@@ -195,4 +209,5 @@ def test1(filename):
     df.write(txt)
     df.close()
 
-test1("play.json")
+
+
